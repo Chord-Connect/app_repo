@@ -87,11 +87,7 @@ Chord Connect is a social android app that helps musicians connect with other mu
 
 ## Wireframes
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
+<img src="wireframe.jpg" width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
