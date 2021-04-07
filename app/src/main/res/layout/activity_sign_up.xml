@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#19FFFFFF"
+    tools:context=".LoginActivity">
+
+    <EditText
+        android:id="@+id/ptSignUpUsername"
+        android:layout_width="318dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:background="#19000000"
+        android:ems="10"
+        android:fontFamily="@font/biorhyme"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ivSignUpLogo" />
+
+    <ImageView
+        android:id="@+id/ivSignUpLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/_77292e5893c4419a8f3db60433aa121" />
+
+    <Button
+        android:id="@+id/btnSignUpPage"
+        android:layout_width="258dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="52dp"
+        android:background="#C8FF5722"
+        android:fontFamily="@font/biorhyme"
+        android:text="Sign Up"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etSignUpConfirm" />
+
+    <EditText
+        android:id="@+id/etSignUpPassword"
+        android:layout_width="318dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="12dp"
+        android:background="#19000000"
+        android:ems="10"
+        android:fontFamily="@font/biorhyme"
+        android:hint="Password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ptSignUpUsername" />
+
+    <EditText
+        android:id="@+id/etSignUpConfirm"
+        android:layout_width="318dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="12dp"
+        android:background="#19000000"
+        android:ems="10"
+        android:fontFamily="@font/biorhyme"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etSignUpPassword" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
