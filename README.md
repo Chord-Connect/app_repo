@@ -90,4 +90,4 @@ Chord Connect is a social android app that helps musicians connect with other mu
 <img src="wireframe.jpg" width=600>
 
 ## Unit 8 Progress
-<img src="Unit 8 Progress.jpg" width=600>
+<img src="Unit 8 Progress.gif" width=600>
