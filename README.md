@@ -4,7 +4,7 @@
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
-2. [Unit 8 Progress](#Schema)
+2. [Unit 8 Progress](#Unit 8 Progress)
 
 ## Overview
 
