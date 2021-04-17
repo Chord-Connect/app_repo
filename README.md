@@ -30,13 +30,13 @@ Chord Connect is a social android app that helps musicians connect with other mu
 * [x] Users can log in 
 * [x] Users can stay logged in if they exit out of the app without logging out
 * [x] Users can log out
-* [ ] Users can post their profile picture
-* [ ] Users can enter their address information (to locate other musicians)
-* [ ] Users can post audio files 
-* [ ] Users can view their own audio files in their profile
-* [ ] Users can have a sneak peek of other user's audio files and profile picture
-* [ ] Users can chat with each other
-* [ ] User can locate musicians near their area (proximity feature/GPS)
+* [x] Users can post their profile picture
+* [x] Users can enter their address information (to locate other musicians)
+* [x] Users can post audio files 
+* [x] Users can view their own audio files in their profile
+* [x] Users can have a sneak peek of other user's audio files and profile picture
+* [x] Users can chat with each other
+* [x] User can locate musicians near their area (proximity feature/GPS)
 
 **Stretch Stories**
 
